@@ -1,4 +1,10 @@
 # Citation prediction
+ Files included: 
+    <ul>
+        <li>Python Jupyter Notebook: contains the full code and visualizations for data cleaning, wrangling, analysis, visualization, and predictive modeling.</li>
+        <li>Slide Deck: Presentation of the project in powerpoint form</li>
+        </ul>
+
 Summary
 Records of over 250,000 police pull-overs in the state of Vermont between the years 2010-2015 were analyzed alongside various features such as driver demographics, location information, and datetime information. Findings:
 
